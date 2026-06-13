@@ -11,6 +11,18 @@
       "download_url": "https://raw.githubusercontent.com/tinyhumansai/skill-registry/main/skills/git-summary/SKILL.md",
       "stars": 0,
       "updated_at": "2026-06-07T00:00:00Z"
+    },
+    {
+      "id": "xquik-twitter",
+      "name": "Xquik Twitter",
+      "description": "Use Xquik for X/Twitter search, account lookups, timelines, trends, monitoring setup, and MCP/API workflows.",
+      "format": "agentskills",
+      "author": "Xquik",
+      "version": "1.0.0",
+      "tags": ["x", "twitter", "social", "api", "mcp"],
+      "download_url": "https://raw.githubusercontent.com/tinyhumansai/skill-registry/main/skills/xquik-twitter/SKILL.md",
+      "stars": 0,
+      "updated_at": "2026-06-13T00:00:00Z"
     }
   ]
 }

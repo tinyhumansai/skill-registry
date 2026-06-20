@@ -11,6 +11,18 @@
       "download_url": "https://raw.githubusercontent.com/tinyhumansai/skill-registry/main/skills/git-summary/SKILL.md",
       "stars": 0,
       "updated_at": "2026-06-07T00:00:00Z"
+    },
+    {
+      "id": "hermes-tweet",
+      "name": "Hermes Tweet",
+      "description": "Use Hermes Tweet from Hermes Agent for X/Twitter search, social listening, publishing, monitors, webhooks, media, draws, and trend reads through Xquik.",
+      "format": "agentskills",
+      "author": "Xquik",
+      "version": "0.1.6",
+      "tags": ["hermes-agent", "xquik", "twitter", "x", "social-media", "automation"],
+      "download_url": "https://raw.githubusercontent.com/tinyhumansai/skill-registry/main/skills/hermes-tweet/SKILL.md",
+      "stars": 0,
+      "updated_at": "2026-06-20T00:00:00Z"
     }
   ]
 }

@@ -36,11 +36,14 @@ Keep account-changing actions disabled unless the session needs them:
 export HERMES_TWEET_ENABLE_ACTIONS=false
 ```
 
+Set `HERMES_TWEET_ENABLE_ACTIONS=true` only for sessions that need approved
+account actions.
+
 ## Workflow
 
-1. Use `tweet_explore` to find a catalog-listed `/api/v1/...` endpoint.
-2. Use `tweet_read` for public read-only endpoints after the route is known.
-3. Use `tweet_action` only for writes, private reads, monitors, webhooks, extraction jobs, media, or giveaway draws after the user approves the exact action.
+1. Use `tweet_explore` to find a catalog-listed `/api/v1/...` endpoint. This does not need network credentials.
+2. Use `tweet_read` for public read-only endpoints after the route is known. This requires `XQUIK_API_KEY`.
+3. Use `tweet_action` only for writes, private reads, monitors, webhooks, extraction jobs, media, or giveaway draws after the user approves the exact action. This requires `XQUIK_API_KEY` and `HERMES_TWEET_ENABLE_ACTIONS=true`.
 
 ## When to Use
 
@@ -69,4 +72,4 @@ hermes plugins list
 hermes tools list
 ```
 
-Confirm `hermes-tweet` is enabled, `tweet_explore` appears without `XQUIK_API_KEY`, and `tweet_read` appears after the key is configured.
+Confirm `hermes-tweet` is enabled, `tweet_explore` appears without `XQUIK_API_KEY`, `tweet_read` appears after the key is configured, and `tweet_action` appears only when actions are enabled.

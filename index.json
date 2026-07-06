@@ -11,6 +11,18 @@
       "download_url": "https://raw.githubusercontent.com/tinyhumansai/skill-registry/main/skills/git-summary/SKILL.md",
       "stars": 0,
       "updated_at": "2026-06-07T00:00:00Z"
+    },
+    {
+      "id": "routerbase-agent-skills",
+      "name": "RouterBase Agent Skills",
+      "description": "Use routerbase as an OpenAI-compatible gateway for API integration, model routing, and media generation workflows.",
+      "format": "agentskills",
+      "author": "zenlee123",
+      "version": "1.0.0",
+      "tags": ["routerbase", "openai-compatible", "model-routing", "media-generation"],
+      "download_url": "https://raw.githubusercontent.com/tinyhumansai/skill-registry/main/skills/routerbase-agent-skills/SKILL.md",
+      "stars": 0,
+      "updated_at": "2026-07-06T00:00:00Z"
     }
   ]
 }

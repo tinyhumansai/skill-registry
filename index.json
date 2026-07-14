@@ -11,6 +11,18 @@
       "download_url": "https://raw.githubusercontent.com/tinyhumansai/skill-registry/main/skills/git-summary/SKILL.md",
       "stars": 0,
       "updated_at": "2026-06-07T00:00:00Z"
+    },
+    {
+      "id": "ontoly-software-graph",
+      "name": "Ontoly Software Graph",
+      "description": "Build and query Ontoly's deterministic Software Graph before manually searching TypeScript repositories.",
+      "format": "agentskills",
+      "author": "0xsarwagya",
+      "version": "1.0.0",
+      "tags": ["code-analysis", "software-graph", "typescript"],
+      "download_url": "https://raw.githubusercontent.com/tinyhumansai/skill-registry/main/skills/ontoly-software-graph/SKILL.md",
+      "stars": 0,
+      "updated_at": "2026-07-14T00:00:00Z"
     }
   ]
 }

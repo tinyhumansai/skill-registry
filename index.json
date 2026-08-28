@@ -11,6 +11,18 @@
       "download_url": "https://raw.githubusercontent.com/tinyhumansai/skill-registry/main/skills/git-summary/SKILL.md",
       "stars": 0,
       "updated_at": "2026-06-07T00:00:00Z"
+    },
+    {
+      "id": "hol-guard",
+      "name": "HOL Guard",
+      "description": "Protect supported local AI coding-agent runtimes with HOL Guard before mutation-bearing tool work.",
+      "format": "agentskills",
+      "author": "kantorcodes",
+      "version": "1.0.0",
+      "tags": ["security", "runtime-safety", "ai-agents", "coding-agents"],
+      "download_url": "https://raw.githubusercontent.com/tinyhumansai/skill-registry/main/skills/hol-guard/SKILL.md",
+      "stars": 0,
+      "updated_at": "2026-08-27T22:07:00Z"
     }
   ]
 }

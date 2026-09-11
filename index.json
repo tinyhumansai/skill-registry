@@ -11,6 +11,54 @@
       "download_url": "https://raw.githubusercontent.com/tinyhumansai/skill-registry/main/skills/git-summary/SKILL.md",
       "stars": 0,
       "updated_at": "2026-06-07T00:00:00Z"
+    },
+    {
+      "id": "windows-repair-triage",
+      "name": "Windows Repair Triage",
+      "description": "Diagnostic workflow for repairing Windows PCs — boot failures, login loops, driver problems. Converts a walk-in repair job into a safe, ordered action plan.",
+      "format": "agentskills",
+      "author": "Harley",
+      "version": "1.0.0",
+      "tags": ["windows", "repair", "triage", "harleycoder"],
+      "download_url": "https://raw.githubusercontent.com/tinyhumansai/skill-registry/main/skills/windows-repair-triage/SKILL.md",
+      "stars": 0,
+      "updated_at": "2026-09-11T00:00:00Z"
+    },
+    {
+      "id": "virus-removal-triage",
+      "name": "Virus Removal Triage",
+      "description": "Safe removal workflow for malware, adware, and ransomware on customer PCs — containment, evidence, and cleanup with zero data-loss guarantees.",
+      "format": "agentskills",
+      "author": "Harley",
+      "version": "1.0.0",
+      "tags": ["malware", "removal", "triage", "harleycoder"],
+      "download_url": "https://raw.githubusercontent.com/tinyhumansai/skill-registry/main/skills/virus-removal-triage/SKILL.md",
+      "stars": 0,
+      "updated_at": "2026-09-11T00:00:00Z"
+    },
+    {
+      "id": "gsm-phone-unlock",
+      "name": "GSM Phone Unlock / Repair Triage",
+      "description": "GSM device repair and unlock triage — Samsung and MediaTek tooling, ADB over USB/WiFi, and bailout paths without bricking customer hardware.",
+      "format": "agentskills",
+      "author": "Harley",
+      "version": "1.0.0",
+      "tags": ["gsm", "android", "repair", "unlock", "harleycoder"],
+      "download_url": "https://raw.githubusercontent.com/tinyhumansai/skill-registry/main/skills/gsm-phone-unlock/SKILL.md",
+      "stars": 0,
+      "updated_at": "2026-09-11T00:00:00Z"
+    },
+    {
+      "id": "pc-setup-automation",
+      "name": "PC Setup Automation",
+      "description": "Turnkey new-PC setup — Windows hardening, driver installs, privacy pruning, and a repeatable customer checklist that makes the lane profitable.",
+      "format": "agentskills",
+      "author": "Harley",
+      "version": "1.0.0",
+      "tags": ["windows", "setup", "automation", "harleycoder"],
+      "download_url": "https://raw.githubusercontent.com/tinyhumansai/skill-registry/main/skills/pc-setup-automation/SKILL.md",
+      "stars": 0,
+      "updated_at": "2026-09-11T00:00:00Z"
     }
   ]
 }

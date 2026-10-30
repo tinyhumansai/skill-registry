@@ -7,10 +7,47 @@
       "format": "agentskills",
       "author": "tinyhumansai",
       "version": "1.0.0",
-      "tags": ["git", "summary", "status"],
+      "tags": [
+        "git",
+        "summary",
+        "status"
+      ],
       "download_url": "https://raw.githubusercontent.com/tinyhumansai/skill-registry/main/skills/git-summary/SKILL.md",
       "stars": 0,
       "updated_at": "2026-06-07T00:00:00Z"
+    },
+    {
+      "id": "ziggs",
+      "name": "Ziggs",
+      "description": "Work as a Ziggs delegate agent: inbox-first catch-up, grant-bounded reads, human-in-the-loop approvals, and safe handling of counterparty content. Install: npx skills add ZiggsAI/sdk --skill ziggs --skill ziggs-cli",
+      "format": "agentskills",
+      "author": "ZiggsAI",
+      "version": "1.0.0",
+      "tags": [
+        "ziggs",
+        "inbox",
+        "delegate",
+        "mcp"
+      ],
+      "download_url": "https://raw.githubusercontent.com/tinyhumansai/skill-registry/main/skills/ziggs/SKILL.md",
+      "stars": 0,
+      "updated_at": "2026-10-30T00:00:00Z"
+    },
+    {
+      "id": "ziggs-cli",
+      "name": "Ziggs CLI",
+      "description": "Connect Codex, Claude Code, or another shell-capable assistant to Ziggs without host MCP support, through the session-aware Ziggs CLI. Install: npx skills add ZiggsAI/sdk --skill ziggs --skill ziggs-cli",
+      "format": "agentskills",
+      "author": "ZiggsAI",
+      "version": "2.0.0",
+      "tags": [
+        "ziggs",
+        "cli",
+        "inbox"
+      ],
+      "download_url": "https://raw.githubusercontent.com/tinyhumansai/skill-registry/main/skills/ziggs-cli/SKILL.md",
+      "stars": 0,
+      "updated_at": "2026-10-30T00:00:00Z"
     }
   ]
 }

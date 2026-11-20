@@ -7,10 +7,30 @@
       "format": "agentskills",
       "author": "tinyhumansai",
       "version": "1.0.0",
-      "tags": ["git", "summary", "status"],
+      "tags": [
+        "git",
+        "summary",
+        "status"
+      ],
       "download_url": "https://raw.githubusercontent.com/tinyhumansai/skill-registry/main/skills/git-summary/SKILL.md",
       "stars": 0,
       "updated_at": "2026-06-07T00:00:00Z"
+    },
+    {
+      "id": "datacircle",
+      "name": "Datacircle",
+      "description": "Find the best GTM APIs. Download every plan on Datacircle as one file. Use it to compare or price a GTM API.",
+      "format": "agentskills",
+      "author": "datacircle",
+      "version": "1.0.0",
+      "tags": [
+        "gtm",
+        "api",
+        "pricing"
+      ],
+      "download_url": "https://datacircle.dev/SKILL.md",
+      "stars": 0,
+      "updated_at": "2026-11-21T00:00:00Z"
     }
   ]
 }
